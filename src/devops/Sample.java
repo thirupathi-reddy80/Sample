@@ -5,5 +5,9 @@ public class Sample {
 	{
 		System.out.println("Welcome to the project");
 	}
+	public void sudhakar()
+	{
+		System.out.println("This is sudhakar");
+	}
 
 }
