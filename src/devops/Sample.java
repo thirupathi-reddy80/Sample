@@ -3,7 +3,7 @@ package devops;
 public class Sample {
 	public static void main(String args[])
 	{
-		System.out.println("Welcome to the project");
+		System.out.println("Welcome to  MY project");
 	}
 
 }
